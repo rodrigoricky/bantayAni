@@ -1,0 +1,857 @@
+{
+  "municipality": {
+    "id": "camarines-naga",
+    "name": "Naga City",
+    "province": "Camarines Sur",
+    "region": "Region V (Bicol)",
+    "latitude": 13.6192,
+    "longitude": 123.1814,
+    "total_farms": 4,
+    "total_area_hectares": 6.5
+  },
+  "municipalities": [
+    {
+      "id": "camarines-naga",
+      "name": "Naga City",
+      "province": "Camarines Sur",
+      "region": "Region V (Bicol)",
+      "latitude": 13.6192,
+      "longitude": 123.1814,
+      "total_farms": 4,
+      "total_area_hectares": 6.5
+    },
+    {
+      "id": "camarines-pili",
+      "name": "Pili",
+      "province": "Camarines Sur",
+      "region": "Region V (Bicol)",
+      "latitude": 13.5578,
+      "longitude": 123.3069,
+      "total_farms": 0,
+      "total_area_hectares": 0
+    },
+    {
+      "id": "camarines-iriga",
+      "name": "Iriga City",
+      "province": "Camarines Sur",
+      "region": "Region V (Bicol)",
+      "latitude": 13.4214,
+      "longitude": 123.4119,
+      "total_farms": 0,
+      "total_area_hectares": 0
+    }
+  ],
+  "farms": [
+    {
+      "id": "BUK-001",
+      "rsbsa_number": "RSBSA-BUK-2024-00412",
+      "farmer_name": "Juan Dela Cruz",
+      "municipality_id": "camarines-naga",
+      "crop_type": "Rice",
+      "area_hectares": 1.5,
+      "latitude": 13.615,
+      "longitude": 123.175,
+      "polygon": [
+        [
+          123.172,
+          13.612
+        ],
+        [
+          123.178,
+          13.612
+        ],
+        [
+          123.178,
+          13.618
+        ],
+        [
+          123.172,
+          13.618
+        ],
+        [
+          123.172,
+          13.612
+        ]
+      ],
+      "planting_date": "2024-06-15",
+      "expected_harvest_date": "2024-11-28",
+      "is_insured": true
+    },
+    {
+      "id": "BUK-002",
+      "rsbsa_number": "RSBSA-BUK-2024-00413",
+      "farmer_name": "Maria Santos",
+      "municipality_id": "camarines-naga",
+      "crop_type": "Rice",
+      "area_hectares": 2.0,
+      "latitude": 13.622,
+      "longitude": 123.189,
+      "polygon": [
+        [
+          123.186,
+          13.619
+        ],
+        [
+          123.192,
+          13.619
+        ],
+        [
+          123.192,
+          13.625
+        ],
+        [
+          123.186,
+          13.625
+        ],
+        [
+          123.186,
+          13.619
+        ]
+      ],
+      "planting_date": "2024-06-20",
+      "expected_harvest_date": "2024-12-01",
+      "is_insured": true
+    },
+    {
+      "id": "BUK-003",
+      "rsbsa_number": "RSBSA-BUK-2024-00999",
+      "farmer_name": "Pedro Reyes",
+      "municipality_id": "camarines-naga",
+      "crop_type": "Rice",
+      "area_hectares": 1.2,
+      "latitude": 13.608,
+      "longitude": 123.182,
+      "polygon": [
+        [
+          123.179,
+          13.605
+        ],
+        [
+          123.185,
+          13.605
+        ],
+        [
+          123.185,
+          13.611
+        ],
+        [
+          123.179,
+          13.611
+        ],
+        [
+          123.179,
+          13.605
+        ]
+      ],
+      "planting_date": "2024-06-10",
+      "expected_harvest_date": "2024-11-20",
+      "is_insured": false
+    },
+    {
+      "id": "BUK-004",
+      "rsbsa_number": "RSBSA-BUK-2024-00415",
+      "farmer_name": "Ana Mendoza",
+      "municipality_id": "camarines-naga",
+      "crop_type": "Corn",
+      "area_hectares": 1.8,
+      "latitude": 13.63,
+      "longitude": 123.176,
+      "polygon": [
+        [
+          123.173,
+          13.627
+        ],
+        [
+          123.179,
+          13.627
+        ],
+        [
+          123.179,
+          13.633
+        ],
+        [
+          123.173,
+          13.633
+        ],
+        [
+          123.173,
+          13.627
+        ]
+      ],
+      "planting_date": "2024-07-01",
+      "expected_harvest_date": "2024-12-15",
+      "is_insured": true
+    }
+  ],
+  "satellite_imagery": [
+    {
+      "parcel_id": "BUK-001",
+      "capture_date": "2024-09-01",
+      "ndvi_value": 0.7,
+      "health_status": "healthy",
+      "cloud_cover_percentage": 6.5,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-001",
+      "capture_date": "2024-09-05",
+      "ndvi_value": 0.71,
+      "health_status": "healthy",
+      "cloud_cover_percentage": 7.5,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-001",
+      "capture_date": "2024-09-10",
+      "ndvi_value": 0.76,
+      "health_status": "healthy",
+      "cloud_cover_percentage": 3.4,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-001",
+      "capture_date": "2024-09-15",
+      "ndvi_value": 0.745,
+      "health_status": "healthy",
+      "cloud_cover_percentage": 2.8,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-001",
+      "capture_date": "2024-09-20",
+      "ndvi_value": 0.735,
+      "health_status": "healthy",
+      "cloud_cover_percentage": 4.1,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-001",
+      "capture_date": "2024-09-25",
+      "ndvi_value": 0.74,
+      "health_status": "healthy",
+      "cloud_cover_percentage": 4.2,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-001",
+      "capture_date": "2024-10-01",
+      "ndvi_value": 0.215,
+      "health_status": "critical",
+      "cloud_cover_percentage": 5.7,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-001",
+      "capture_date": "2024-10-05",
+      "ndvi_value": 0.145,
+      "health_status": "critical",
+      "cloud_cover_percentage": 6.3,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-001",
+      "capture_date": "2024-10-10",
+      "ndvi_value": 0.22,
+      "health_status": "critical",
+      "cloud_cover_percentage": 3.8,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-001",
+      "capture_date": "2024-10-15",
+      "ndvi_value": 0.19,
+      "health_status": "critical",
+      "cloud_cover_percentage": 5.2,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-001",
+      "capture_date": "2024-10-20",
+      "ndvi_value": 0.14,
+      "health_status": "critical",
+      "cloud_cover_percentage": 6.2,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-001",
+      "capture_date": "2024-10-22",
+      "ndvi_value": 0.145,
+      "health_status": "critical",
+      "cloud_cover_percentage": 6.3,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-001",
+      "capture_date": "2024-10-25",
+      "ndvi_value": 0.155,
+      "health_status": "critical",
+      "cloud_cover_percentage": 4.5,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-001",
+      "capture_date": "2024-10-30",
+      "ndvi_value": 0.2,
+      "health_status": "critical",
+      "cloud_cover_percentage": 5.4,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-001",
+      "capture_date": "2024-11-01",
+      "ndvi_value": 0.16,
+      "health_status": "critical",
+      "cloud_cover_percentage": 6.6,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-001",
+      "capture_date": "2024-11-05",
+      "ndvi_value": 0.14,
+      "health_status": "critical",
+      "cloud_cover_percentage": 2.2,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-001",
+      "capture_date": "2024-11-10",
+      "ndvi_value": 0.225,
+      "health_status": "critical",
+      "cloud_cover_percentage": 3.9,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-001",
+      "capture_date": "2024-11-15",
+      "ndvi_value": 0.215,
+      "health_status": "critical",
+      "cloud_cover_percentage": 3.7,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-001",
+      "capture_date": "2024-11-20",
+      "ndvi_value": 0.16,
+      "health_status": "critical",
+      "cloud_cover_percentage": 2.6,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-001",
+      "capture_date": "2024-11-25",
+      "ndvi_value": 0.185,
+      "health_status": "critical",
+      "cloud_cover_percentage": 3.1,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-002",
+      "capture_date": "2024-09-01",
+      "ndvi_value": 0.7,
+      "health_status": "healthy",
+      "cloud_cover_percentage": 3.2,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-002",
+      "capture_date": "2024-09-05",
+      "ndvi_value": 0.71,
+      "health_status": "healthy",
+      "cloud_cover_percentage": 5.2,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-002",
+      "capture_date": "2024-09-10",
+      "ndvi_value": 0.72,
+      "health_status": "healthy",
+      "cloud_cover_percentage": 6.7,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-002",
+      "capture_date": "2024-09-15",
+      "ndvi_value": 0.735,
+      "health_status": "healthy",
+      "cloud_cover_percentage": 3.9,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-002",
+      "capture_date": "2024-09-20",
+      "ndvi_value": 0.705,
+      "health_status": "healthy",
+      "cloud_cover_percentage": 2.5,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-002",
+      "capture_date": "2024-09-25",
+      "ndvi_value": 0.73,
+      "health_status": "healthy",
+      "cloud_cover_percentage": 5.3,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-002",
+      "capture_date": "2024-10-01",
+      "ndvi_value": 0.26,
+      "health_status": "critical",
+      "cloud_cover_percentage": 5.8,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-002",
+      "capture_date": "2024-10-05",
+      "ndvi_value": 0.265,
+      "health_status": "critical",
+      "cloud_cover_percentage": 5.9,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-002",
+      "capture_date": "2024-10-10",
+      "ndvi_value": 0.17,
+      "health_status": "critical",
+      "cloud_cover_percentage": 2.0,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-002",
+      "capture_date": "2024-10-15",
+      "ndvi_value": 0.21,
+      "health_status": "critical",
+      "cloud_cover_percentage": 6.8,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-002",
+      "capture_date": "2024-10-20",
+      "ndvi_value": 0.2,
+      "health_status": "critical",
+      "cloud_cover_percentage": 4.6,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-002",
+      "capture_date": "2024-10-22",
+      "ndvi_value": 0.195,
+      "health_status": "critical",
+      "cloud_cover_percentage": 4.5,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-002",
+      "capture_date": "2024-10-25",
+      "ndvi_value": 0.185,
+      "health_status": "critical",
+      "cloud_cover_percentage": 2.3,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-002",
+      "capture_date": "2024-10-30",
+      "ndvi_value": 0.22,
+      "health_status": "critical",
+      "cloud_cover_percentage": 3.0,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-002",
+      "capture_date": "2024-11-01",
+      "ndvi_value": 0.23,
+      "health_status": "critical",
+      "cloud_cover_percentage": 7.2,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-002",
+      "capture_date": "2024-11-05",
+      "ndvi_value": 0.24,
+      "health_status": "critical",
+      "cloud_cover_percentage": 3.4,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-002",
+      "capture_date": "2024-11-10",
+      "ndvi_value": 0.205,
+      "health_status": "critical",
+      "cloud_cover_percentage": 4.7,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-002",
+      "capture_date": "2024-11-15",
+      "ndvi_value": 0.2,
+      "health_status": "critical",
+      "cloud_cover_percentage": 6.6,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-002",
+      "capture_date": "2024-11-20",
+      "ndvi_value": 0.21,
+      "health_status": "critical",
+      "cloud_cover_percentage": 4.8,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-002",
+      "capture_date": "2024-11-25",
+      "ndvi_value": 0.205,
+      "health_status": "critical",
+      "cloud_cover_percentage": 4.7,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-003",
+      "capture_date": "2024-09-01",
+      "ndvi_value": 0.76,
+      "health_status": "healthy",
+      "cloud_cover_percentage": 7.9,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-003",
+      "capture_date": "2024-09-05",
+      "ndvi_value": 0.77,
+      "health_status": "healthy",
+      "cloud_cover_percentage": 3.4,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-003",
+      "capture_date": "2024-09-10",
+      "ndvi_value": 0.75,
+      "health_status": "healthy",
+      "cloud_cover_percentage": 6.6,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-003",
+      "capture_date": "2024-09-15",
+      "ndvi_value": 0.735,
+      "health_status": "healthy",
+      "cloud_cover_percentage": 2.5,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-003",
+      "capture_date": "2024-09-20",
+      "ndvi_value": 0.775,
+      "health_status": "healthy",
+      "cloud_cover_percentage": 3.8,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-003",
+      "capture_date": "2024-09-25",
+      "ndvi_value": 0.78,
+      "health_status": "healthy",
+      "cloud_cover_percentage": 5.9,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-003",
+      "capture_date": "2024-10-01",
+      "ndvi_value": 0.145,
+      "health_status": "critical",
+      "cloud_cover_percentage": 2.9,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-003",
+      "capture_date": "2024-10-05",
+      "ndvi_value": 0.135,
+      "health_status": "critical",
+      "cloud_cover_percentage": 6.7,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-003",
+      "capture_date": "2024-10-10",
+      "ndvi_value": 0.115,
+      "health_status": "critical",
+      "cloud_cover_percentage": 2.3,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-003",
+      "capture_date": "2024-10-15",
+      "ndvi_value": 0.115,
+      "health_status": "critical",
+      "cloud_cover_percentage": 2.3,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-003",
+      "capture_date": "2024-10-20",
+      "ndvi_value": 0.19,
+      "health_status": "critical",
+      "cloud_cover_percentage": 7.8,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-003",
+      "capture_date": "2024-10-22",
+      "ndvi_value": 0.195,
+      "health_status": "critical",
+      "cloud_cover_percentage": 5.9,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-003",
+      "capture_date": "2024-10-25",
+      "ndvi_value": 0.17,
+      "health_status": "critical",
+      "cloud_cover_percentage": 5.4,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-003",
+      "capture_date": "2024-10-30",
+      "ndvi_value": 0.125,
+      "health_status": "critical",
+      "cloud_cover_percentage": 6.5,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-003",
+      "capture_date": "2024-11-01",
+      "ndvi_value": 0.175,
+      "health_status": "critical",
+      "cloud_cover_percentage": 7.5,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-003",
+      "capture_date": "2024-11-05",
+      "ndvi_value": 0.12,
+      "health_status": "critical",
+      "cloud_cover_percentage": 6.4,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-003",
+      "capture_date": "2024-11-10",
+      "ndvi_value": 0.17,
+      "health_status": "critical",
+      "cloud_cover_percentage": 7.4,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-003",
+      "capture_date": "2024-11-15",
+      "ndvi_value": 0.19,
+      "health_status": "critical",
+      "cloud_cover_percentage": 3.8,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-003",
+      "capture_date": "2024-11-20",
+      "ndvi_value": 0.175,
+      "health_status": "critical",
+      "cloud_cover_percentage": 5.5,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-003",
+      "capture_date": "2024-11-25",
+      "ndvi_value": 0.12,
+      "health_status": "critical",
+      "cloud_cover_percentage": 6.4,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-004",
+      "capture_date": "2024-09-01",
+      "ndvi_value": 0.68,
+      "health_status": "healthy",
+      "cloud_cover_percentage": 6.7,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-004",
+      "capture_date": "2024-09-05",
+      "ndvi_value": 0.68,
+      "health_status": "healthy",
+      "cloud_cover_percentage": 2.3,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-004",
+      "capture_date": "2024-09-10",
+      "ndvi_value": 0.68,
+      "health_status": "healthy",
+      "cloud_cover_percentage": 6.6,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-004",
+      "capture_date": "2024-09-15",
+      "ndvi_value": 0.695,
+      "health_status": "healthy",
+      "cloud_cover_percentage": 3.4,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-004",
+      "capture_date": "2024-09-20",
+      "ndvi_value": 0.68,
+      "health_status": "healthy",
+      "cloud_cover_percentage": 7.0,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-004",
+      "capture_date": "2024-09-25",
+      "ndvi_value": 0.68,
+      "health_status": "healthy",
+      "cloud_cover_percentage": 5.5,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-004",
+      "capture_date": "2024-10-01",
+      "ndvi_value": 0.265,
+      "health_status": "critical",
+      "cloud_cover_percentage": 6.7,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-004",
+      "capture_date": "2024-10-05",
+      "ndvi_value": 0.265,
+      "health_status": "critical",
+      "cloud_cover_percentage": 6.7,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-004",
+      "capture_date": "2024-10-10",
+      "ndvi_value": 0.28,
+      "health_status": "critical",
+      "cloud_cover_percentage": 3.0,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-004",
+      "capture_date": "2024-10-15",
+      "ndvi_value": 0.23,
+      "health_status": "critical",
+      "cloud_cover_percentage": 2.0,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-004",
+      "capture_date": "2024-10-20",
+      "ndvi_value": 0.3,
+      "health_status": "watch",
+      "cloud_cover_percentage": 5.4,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-004",
+      "capture_date": "2024-10-22",
+      "ndvi_value": 0.23,
+      "health_status": "critical",
+      "cloud_cover_percentage": 2.0,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-004",
+      "capture_date": "2024-10-25",
+      "ndvi_value": 0.295,
+      "health_status": "critical",
+      "cloud_cover_percentage": 3.3,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-004",
+      "capture_date": "2024-10-30",
+      "ndvi_value": 0.325,
+      "health_status": "watch",
+      "cloud_cover_percentage": 7.9,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-004",
+      "capture_date": "2024-11-01",
+      "ndvi_value": 0.3,
+      "health_status": "watch",
+      "cloud_cover_percentage": 3.4,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-004",
+      "capture_date": "2024-11-05",
+      "ndvi_value": 0.29,
+      "health_status": "critical",
+      "cloud_cover_percentage": 7.2,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-004",
+      "capture_date": "2024-11-10",
+      "ndvi_value": 0.26,
+      "health_status": "critical",
+      "cloud_cover_percentage": 4.6,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-004",
+      "capture_date": "2024-11-15",
+      "ndvi_value": 0.265,
+      "health_status": "critical",
+      "cloud_cover_percentage": 6.7,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-004",
+      "capture_date": "2024-11-20",
+      "ndvi_value": 0.245,
+      "health_status": "critical",
+      "cloud_cover_percentage": 6.3,
+      "data_source": "Sentinel-2"
+    },
+    {
+      "parcel_id": "BUK-004",
+      "capture_date": "2024-11-25",
+      "ndvi_value": 0.235,
+      "health_status": "critical",
+      "cloud_cover_percentage": 2.1,
+      "data_source": "Sentinel-2"
+    }
+  ],
+  "users": [
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440000",
+      "email": "mao.naga@da.gov.ph",
+      "password_hash": "$2b$12$QuXUxDownoKX6I77sBTapefK2Ivq8MKBYIlchFQ2QoGCoQwHJqsSC",
+      "role": "MAO",
+      "municipality_id": "camarines-naga",
+      "first_name": "John",
+      "last_name": "Doe"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440001",
+      "email": "regional.x@da.gov.ph",
+      "password_hash": "$2b$12$QuXUxDownoKX6I77sBTapefK2Ivq8MKBYIlchFQ2QoGCoQwHJqsSC",
+      "role": "DA_REGIONAL",
+      "municipality_id": "camarines-naga",
+      "first_name": "Jane",
+      "last_name": "Doe"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440002",
+      "email": "pcic.x@pcic.gov.ph",
+      "password_hash": "$2b$12$QuXUxDownoKX6I77sBTapefK2Ivq8MKBYIlchFQ2QoGCoQwHJqsSC",
+      "role": "PCIC",
+      "municipality_id": "camarines-naga",
+      "first_name": "Juan",
+      "last_name": "Dela Cruz"
+    }
+  ]
+}

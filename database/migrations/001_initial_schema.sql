@@ -1,0 +1,2 @@
+-- Migration 001: Initial schema (see schema.sql for full definition)
+-- This file mirrors schema.sql for version tracking

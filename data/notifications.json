@@ -1,0 +1,1162 @@
+[
+  {
+    "id": "577fda77-f79f-403b-a0ef-479f9ff3e24a",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T20:08:31.402561Z"
+  },
+  {
+    "id": "532f1aff-2f32-4695-8411-c28f9982c6d2",
+    "user_id": "550e8400-e29b-41d4-a716-446655440000",
+    "type": "CLAIM_APPROVED",
+    "title": "Claim approved: 2026-NAG-687AB6E2",
+    "message": "PCIC approved the claim for Juan Dela Cruz (2026-NAG-687AB6E2).",
+    "claim_id": "d246cea1-1039-4e7d-b464-8b52fc4507b2",
+    "is_read": false,
+    "created_at": "2026-06-25T20:08:26.248133Z"
+  },
+  {
+    "id": "48fc41ce-c1fc-47e7-8505-4a30a8744e39",
+    "user_id": "550e8400-e29b-41d4-a716-446655440002",
+    "type": "CLAIM_SUBMITTED",
+    "title": "New claim submitted: 2026-NAG-687AB6E2",
+    "message": "Juan Dela Cruz (Naga City) \u2014 claim 2026-NAG-687AB6E2 is awaiting PCIC review.",
+    "claim_id": "d246cea1-1039-4e7d-b464-8b52fc4507b2",
+    "is_read": false,
+    "created_at": "2026-06-25T20:08:10.742066Z"
+  },
+  {
+    "id": "4dcd1998-9d7d-4a32-a851-db5e9b3de355",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T20:06:34.289513Z"
+  },
+  {
+    "id": "bf514ab1-0ccb-498e-af33-1e0887efb6e5",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T20:06:14.869415Z"
+  },
+  {
+    "id": "b52bb4af-5f03-46ed-b157-88a33011fb93",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T20:05:54.543976Z"
+  },
+  {
+    "id": "bd85fd96-7644-4e7b-8ce8-b3748aa7fd98",
+    "user_id": "550e8400-e29b-41d4-a716-446655440000",
+    "type": "CLAIM_APPROVED",
+    "title": "Claim approved: 2026-NAG-E145A0FC",
+    "message": "PCIC approved the claim for Pedro Reyes (2026-NAG-E145A0FC).",
+    "claim_id": "b368ce54-4efa-491a-8c27-930ab33864b1",
+    "is_read": false,
+    "created_at": "2026-06-25T20:05:38.621297Z"
+  },
+  {
+    "id": "528fe03a-b795-4539-a039-2689ac90371c",
+    "user_id": "550e8400-e29b-41d4-a716-446655440002",
+    "type": "CLAIM_SUBMITTED",
+    "title": "New claim submitted: 2026-NAG-E145A0FC",
+    "message": "Pedro Reyes (Naga City) \u2014 claim 2026-NAG-E145A0FC is awaiting PCIC review.",
+    "claim_id": "b368ce54-4efa-491a-8c27-930ab33864b1",
+    "is_read": false,
+    "created_at": "2026-06-25T20:05:22.243209Z"
+  },
+  {
+    "id": "9915e532-1b3f-4565-87f8-a464a66eb1c5",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T20:03:52.348173Z"
+  },
+  {
+    "id": "eba039f6-eefb-4284-bc6e-4c3cef2182f7",
+    "user_id": "550e8400-e29b-41d4-a716-446655440000",
+    "type": "CLAIM_APPROVED",
+    "title": "Claim approved: 2026-NAG-BFB6585A",
+    "message": "PCIC approved the claim for Juan Dela Cruz (2026-NAG-BFB6585A).",
+    "claim_id": "d334080f-6671-4400-97ef-51c9484c7ee4",
+    "is_read": false,
+    "created_at": "2026-06-25T19:45:40.356846Z"
+  },
+  {
+    "id": "e303a6b2-f575-432a-9b56-b695c9ef4008",
+    "user_id": "550e8400-e29b-41d4-a716-446655440002",
+    "type": "CLAIM_SUBMITTED",
+    "title": "New claim submitted: 2026-NAG-BFB6585A",
+    "message": "Juan Dela Cruz (Naga City) \u2014 claim 2026-NAG-BFB6585A is awaiting PCIC review.",
+    "claim_id": "d334080f-6671-4400-97ef-51c9484c7ee4",
+    "is_read": false,
+    "created_at": "2026-06-25T19:44:35.664892Z"
+  },
+  {
+    "id": "77b66916-6818-439c-b6d3-eab145b01840",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T19:25:24.885314Z"
+  },
+  {
+    "id": "eebaebb0-0537-408c-9eff-98f44d5440e5",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T19:24:07.176200Z"
+  },
+  {
+    "id": "4ac46083-2541-42e0-a689-359afec02b5c",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T19:14:40.510398Z"
+  },
+  {
+    "id": "ced69985-5993-44a8-a7b9-19884f1946ca",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T19:14:25.164318Z"
+  },
+  {
+    "id": "947e9946-34f6-4abd-82c4-3bab684528d8",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T19:12:12.912071Z"
+  },
+  {
+    "id": "33e2955b-5bc9-43fd-bdc1-4c29639c7b0d",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T19:06:02.098462Z"
+  },
+  {
+    "id": "7375cf7b-c484-4caf-ae94-1e305a3875d4",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T19:04:37.274844Z"
+  },
+  {
+    "id": "596fde99-7ceb-4ade-a64d-d2d12f958522",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T19:04:37.265429Z"
+  },
+  {
+    "id": "d446b1b7-8e00-461e-af4c-6f1fbeb1d5bd",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T19:04:01.582507Z"
+  },
+  {
+    "id": "f372a526-4739-40bb-9445-ea4861ef6fc5",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T19:03:37.337263Z"
+  },
+  {
+    "id": "9d26864b-8508-405f-a6e0-e9452cd4575a",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T19:02:51.009996Z"
+  },
+  {
+    "id": "bc490a8b-c6e4-4ff4-b7f5-7f693b3fb404",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T19:01:47.784201Z"
+  },
+  {
+    "id": "21c9cea3-bef8-413f-a672-c383e1204706",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T19:01:42.124178Z"
+  },
+  {
+    "id": "27fa7d81-697f-45c5-b567-c1dbb0c6b62d",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T17:32:47.883076Z"
+  },
+  {
+    "id": "ada84382-305c-44f2-ab1a-8bbfdc56387b",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T17:29:49.205316Z"
+  },
+  {
+    "id": "ea4d3ab0-256b-48de-a1fc-c1fb1a8042ea",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T16:43:09.308259Z"
+  },
+  {
+    "id": "ed3ff346-757b-490a-bfbc-eb587862351a",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T16:34:34.594529Z"
+  },
+  {
+    "id": "9cd00340-8b99-43e2-ae20-2e159ab972c0",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T14:57:30.807360Z"
+  },
+  {
+    "id": "d4ea5126-7443-422e-bc3d-142a2d9cd443",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T14:57:30.793999Z"
+  },
+  {
+    "id": "7c79e2ad-e0b2-4a6b-a865-80483f5efb80",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T14:56:20.221194Z"
+  },
+  {
+    "id": "81bb298f-a7c9-466a-ae38-d3b200ce16bb",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T14:42:07.845022Z"
+  },
+  {
+    "id": "29c61f3c-b12b-40cc-9dd9-e7e6e0c2abc7",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T14:21:57.391798Z"
+  },
+  {
+    "id": "f0e91b4b-02ce-4a17-bd9d-0208bd859850",
+    "user_id": "550e8400-e29b-41d4-a716-446655440000",
+    "type": "CLAIM_REJECTED",
+    "title": "Claim rejected: 2026-NAG-28495286",
+    "message": "PCIC rejected the claim for Juan Dela Cruz (2026-NAG-28495286). Reason: not enough proof to show",
+    "claim_id": "9bc90b26-3fea-4fb4-8a2c-d837be2d0364",
+    "is_read": false,
+    "created_at": "2026-06-25T14:21:33.288082Z"
+  },
+  {
+    "id": "7872ff2d-4562-4e02-8627-eedec4095643",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T13:37:09.098240Z"
+  },
+  {
+    "id": "6aa06c51-913b-4cc9-8a0e-d525ef19f86e",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T13:26:35.630157Z"
+  },
+  {
+    "id": "9c230a68-5d5b-4da1-acdb-9eaf7f103ae2",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T13:18:47.503617Z"
+  },
+  {
+    "id": "f0f66d53-2ee0-401e-9e16-ec07e69e44b2",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T13:01:58.248120Z"
+  },
+  {
+    "id": "0242b8ba-4da8-49cc-baea-5630655ab9c4",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T12:40:27.138113Z"
+  },
+  {
+    "id": "d64c611d-dc47-4cf4-9b7f-5ea3e8893266",
+    "user_id": "550e8400-e29b-41d4-a716-446655440000",
+    "type": "CLAIM_APPROVED",
+    "title": "Claim approved: 2026-NAG-D3A31170",
+    "message": "PCIC approved the claim for Juan Dela Cruz (2026-NAG-D3A31170).",
+    "claim_id": "e8d5e7bc-6c7e-4441-a146-35ff7d1dd04d",
+    "is_read": true,
+    "created_at": "2026-06-25T12:24:48.837459Z"
+  },
+  {
+    "id": "cbbacf73-fb99-4f9b-972c-98cc7897bf1c",
+    "user_id": "550e8400-e29b-41d4-a716-446655440000",
+    "type": "CLAIM_APPROVED",
+    "title": "Claim approved: 2026-NAG-901EDF93",
+    "message": "PCIC approved the claim for Mary Villanueva (2026-NAG-901EDF93).",
+    "claim_id": "01030982-94e5-457f-a16c-da655532a7fe",
+    "is_read": false,
+    "created_at": "2026-06-25T12:21:08.212723Z"
+  },
+  {
+    "id": "75415d71-cff2-4d7c-9d84-9cbd561303ac",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T10:39:07.089541Z"
+  },
+  {
+    "id": "38c28c7b-8748-4321-9bea-6415994cac8e",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T08:09:05.079628Z"
+  },
+  {
+    "id": "3a2df79a-c282-4a4d-a7fe-7c869cba9a1f",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T08:02:54.724638Z"
+  },
+  {
+    "id": "edd5dabe-2e21-4716-9114-68e85151739e",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T07:56:05.103610Z"
+  },
+  {
+    "id": "bfcbec27-d017-49cd-978f-90f992dfbf6b",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T07:54:28.611174Z"
+  },
+  {
+    "id": "5bb1a245-0909-48cd-bec3-4b43efd98df9",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T07:54:28.607598Z"
+  },
+  {
+    "id": "cbb40718-a980-4d28-83f3-c446a9469474",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T07:51:00.386188Z"
+  },
+  {
+    "id": "90bacc59-e6b0-4465-a817-37a5ca65a802",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T07:40:38.208412Z"
+  },
+  {
+    "id": "a6b9d389-00d4-47a4-981d-b56cf7328eee",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T07:39:08.636923Z"
+  },
+  {
+    "id": "d2a51f67-939b-4237-bc2b-c5b8da8bd335",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T07:38:52.174688Z"
+  },
+  {
+    "id": "02dd8ef2-d4e0-4f61-ab96-c23af774274b",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T07:38:52.165915Z"
+  },
+  {
+    "id": "f2e95817-621b-45ab-924d-762816c2b0d9",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T07:38:36.119858Z"
+  },
+  {
+    "id": "44d6b91b-e26c-4346-8f37-75280b1079c2",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T07:38:36.106006Z"
+  },
+  {
+    "id": "eb08286d-6ebc-489b-87af-c241d244fc72",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T07:38:32.402442Z"
+  },
+  {
+    "id": "eaea7f12-707b-4252-afb9-73e900a905d6",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T07:38:32.398605Z"
+  },
+  {
+    "id": "10acdf2e-50f2-4ddb-9f9e-6125af5d65fa",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T07:38:29.420188Z"
+  },
+  {
+    "id": "2c1190a2-5661-4da3-bde3-1ef7bc916e51",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T07:38:24.773301Z"
+  },
+  {
+    "id": "37e67633-bce9-4a16-a38b-bb2f108f64fd",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T07:38:24.769644Z"
+  },
+  {
+    "id": "005743d5-b013-4a44-a351-58ba23d8a1de",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T07:37:40.529547Z"
+  },
+  {
+    "id": "1dd5718c-2945-410e-8739-ce27b8908868",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T07:36:21.224353Z"
+  },
+  {
+    "id": "8a574611-bfc1-47d1-a0bb-75d8dcb95c79",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T07:32:40.912143Z"
+  },
+  {
+    "id": "d689b19b-f4bc-482f-9e9e-605d63435686",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T07:32:40.899557Z"
+  },
+  {
+    "id": "91a422ed-2ea9-4484-beb7-3ff3be9b43fb",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T07:31:44.479117Z"
+  },
+  {
+    "id": "e760f386-1564-4119-9ef0-778d460c9675",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T07:29:37.140362Z"
+  },
+  {
+    "id": "79b5ed00-c970-45c7-8c91-62ae9734a9d5",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T07:27:03.039340Z"
+  },
+  {
+    "id": "f5039067-d75a-46be-8cf5-60e54eac43c0",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T07:25:12.667584Z"
+  },
+  {
+    "id": "4abe6abd-1dd8-4339-97b0-9ca5e2d2d4ee",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Ricky Rodrigo (NAGA-001) entered CRITICAL status with NDVI 0.202. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T07:04:39.510634Z"
+  },
+  {
+    "id": "34e6bfd0-0aa7-47c2-bf66-f8590fef3543",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T07:04:39.506091Z"
+  },
+  {
+    "id": "9048eedc-b75a-453f-a0ad-bdcee75fcc2c",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Ricky Rodrigo (NAGA-001) entered CRITICAL status with NDVI 0.202. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T07:02:53.223440Z"
+  },
+  {
+    "id": "efcf9c77-a0ab-4598-b885-7d952260b9f6",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T07:02:53.216981Z"
+  },
+  {
+    "id": "92f476c6-0748-4d29-a548-90131712866a",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Ricky Rodrigo (NAGA-001) entered CRITICAL status with NDVI 0.202. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T07:01:20.446909Z"
+  },
+  {
+    "id": "035fc2ae-0aef-48f1-83ae-16a24d838419",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T07:01:20.444164Z"
+  },
+  {
+    "id": "a67611fd-66ac-42c9-baf5-e29d66847ff1",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Ricky Rodrigo (NAGA-001) entered CRITICAL status with NDVI 0.202. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T06:59:21.797612Z"
+  },
+  {
+    "id": "7bc1be5b-d656-4b02-acd2-39705edd31b1",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T06:59:21.793575Z"
+  },
+  {
+    "id": "062e5612-6129-409b-9ef7-e9aea6f0889e",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Ricky Rodrigo (NAGA-001) entered CRITICAL status with NDVI 0.202. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T06:56:47.226118Z"
+  },
+  {
+    "id": "110a499f-0d97-4c10-9346-ae7c126c726c",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T06:56:47.215005Z"
+  },
+  {
+    "id": "0acb30bf-c0b7-4874-a047-dce1213af17a",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Ricky Rodrigo (NAGA-001) entered CRITICAL status with NDVI 0.202. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T06:54:18.097772Z"
+  },
+  {
+    "id": "03de10e5-3c9e-4e6e-9d8d-9b7b8edb048b",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T06:54:18.094635Z"
+  },
+  {
+    "id": "3fa2f946-5961-42b6-a5b1-b71d43f229c6",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Ricky Rodrigo (NAGA-001) entered CRITICAL status with NDVI 0.202. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T06:53:55.882304Z"
+  },
+  {
+    "id": "dbdf6250-c1ee-4cb6-98a0-7d2996af2937",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T06:53:55.880778Z"
+  },
+  {
+    "id": "b7b7a854-9a9c-4097-82d0-2642d7594b0f",
+    "user_id": "550e8400-e29b-41d4-a716-446655440002",
+    "type": "CLAIM_SUBMITTED",
+    "title": "New claim submitted: 2026-NAG-901EDF93",
+    "message": "Mary Villanueva (Naga City) \u2014 claim 2026-NAG-901EDF93 is awaiting PCIC review.",
+    "claim_id": "01030982-94e5-457f-a16c-da655532a7fe",
+    "is_read": false,
+    "created_at": "2026-06-25T06:53:33.708231Z"
+  },
+  {
+    "id": "7540dc75-1275-4d66-ae06-517d1f8f04de",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Ricky Rodrigo (NAGA-001) entered CRITICAL status with NDVI 0.202. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T06:50:48.042878Z"
+  },
+  {
+    "id": "aeda5778-a592-4ca0-af13-4028d444a55e",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T06:50:47.997454Z"
+  },
+  {
+    "id": "2845b639-a416-4a59-ac25-e70231801755",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Ricky Rodrigo (NAGA-001) entered CRITICAL status with NDVI 0.202. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T06:50:15.044150Z"
+  },
+  {
+    "id": "7bf8a926-feef-450f-8cb5-d3f4225b03c1",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T06:50:15.042152Z"
+  },
+  {
+    "id": "740ee446-4f1d-4a8c-8f84-bbcea1398a38",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Ricky Rodrigo (NAGA-001) entered CRITICAL status with NDVI 0.202. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T06:49:01.665625Z"
+  },
+  {
+    "id": "ba0e1bcf-bf4b-436b-9381-dda85798dfe9",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T06:48:50.495720Z"
+  },
+  {
+    "id": "b6951d8f-eae7-4db2-ab62-8357690a6fe7",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T06:48:17.832222Z"
+  },
+  {
+    "id": "4d6554a4-c119-485f-82c4-345f05b1b811",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T06:47:52.728913Z"
+  },
+  {
+    "id": "317d45c2-ab53-4cb5-9353-5c80c5b6c020",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": true,
+    "created_at": "2026-06-25T06:28:21.460709Z"
+  },
+  {
+    "id": "494f5b51-0ed7-45a4-94e7-ca1e663eb9e8",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T06:24:56.578807Z"
+  },
+  {
+    "id": "5721a9ac-4450-4986-95f8-89dfd231f1fd",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T06:23:26.983673Z"
+  },
+  {
+    "id": "5f468f0d-26e3-42ad-b68e-241ffe019931",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T06:16:19.943781Z"
+  },
+  {
+    "id": "00972cf3-1d63-4631-ac9a-d25da0a78c29",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T06:15:14.907694Z"
+  },
+  {
+    "id": "ac2a81a6-b650-48b6-a493-9c9d5d34dbce",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T06:12:42.655226Z"
+  },
+  {
+    "id": "6e7c2e9e-5a97-4365-9e46-919ec11e8718",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T06:10:47.638688Z"
+  },
+  {
+    "id": "449174e1-bdda-434e-a385-dd4eeb39c114",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T06:10:24.043637Z"
+  },
+  {
+    "id": "615fb056-d1f9-45da-8290-0d6565d84d92",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T06:09:14.435653Z"
+  },
+  {
+    "id": "8b3816a8-9652-4efb-9ad9-9355640deb57",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T06:07:29.162592Z"
+  },
+  {
+    "id": "c87f4090-7958-42ee-9b6f-65e4e82e45bf",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T06:02:24.614243Z"
+  },
+  {
+    "id": "02a82c88-d532-4df3-9699-9ca9923d72ef",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T05:59:26.713919Z"
+  },
+  {
+    "id": "9cd0fcd4-2af6-4402-b43a-56024e87b1d3",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T05:57:47.984043Z"
+  },
+  {
+    "id": "bc0164b0-b924-4e5d-a2a5-ce29e8e2a4df",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T05:56:29.986071Z"
+  },
+  {
+    "id": "e5b08ff9-c7b2-473e-9df1-040ae13ba845",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T05:54:20.484873Z"
+  },
+  {
+    "id": "acfd3d4d-7c95-4062-98c3-0b4afd53643e",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T05:54:12.327609Z"
+  },
+  {
+    "id": "c54b7c75-4a26-4616-8cc3-b56ecd96d0af",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T05:28:29.725902Z"
+  },
+  {
+    "id": "6842b678-8784-4dcc-b506-f11c0b83dc1c",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T05:25:02.559134Z"
+  },
+  {
+    "id": "e3d2a66c-0727-4353-90bf-f34c8494b6d3",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T05:24:26.873936Z"
+  },
+  {
+    "id": "184708ea-e383-41ae-b14e-d88a43950049",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T05:24:26.870744Z"
+  },
+  {
+    "id": "9912b605-39f5-4a93-a72e-0840d2deb033",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T05:18:30.414359Z"
+  },
+  {
+    "id": "201ec0ac-643d-417f-bb7d-67c9d1fdfe18",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T05:18:30.400021Z"
+  },
+  {
+    "id": "37020b7f-bb49-42af-8a71-c29f1895183a",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T05:16:59.523798Z"
+  },
+  {
+    "id": "b4d13e96-3167-48e7-bd5c-6450dab8bad7",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T05:16:03.680342Z"
+  },
+  {
+    "id": "91b7485f-c49f-4775-9154-ba9662f1c637",
+    "user_id": "550e8400-e29b-41d4-a716-446655440001",
+    "type": "CRITICAL_FARM_ALERT",
+    "title": "Critical farm alert: Camarines Naga",
+    "message": "Maria Santos (BUK-002) entered CRITICAL status with NDVI 0.320. Immediate review recommended.",
+    "claim_id": null,
+    "is_read": false,
+    "created_at": "2026-06-25T05:14:54.186742Z"
+  },
+  {
+    "id": "01cffe51-f7cd-4e76-a87b-6c9301990b40",
+    "user_id": "550e8400-e29b-41d4-a716-446655440000",
+    "type": "CLAIM_APPROVED",
+    "title": "Claim approved: 2026-NAG-B9DBE6C3",
+    "message": "PCIC approved the claim for Juan Dela Cruz (2026-NAG-B9DBE6C3).",
+    "claim_id": "515be799-efff-48f0-a162-0608c92abaac",
+    "is_read": true,
+    "created_at": "2026-06-25T03:58:07.911605Z"
+  }
+]
